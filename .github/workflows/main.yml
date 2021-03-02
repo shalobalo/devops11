@@ -22,5 +22,5 @@ jobs:
     - name: Run a multi-line script
       run: |
         sudo apt install -y jsonlint
-        for i in ./*.template;do jsonlint-php $i; done
+        for i in ./*.json;do jsonlint-php $i; done
 
