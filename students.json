@@ -1,0 +1,76 @@
+{
+  "Student Catalog": [{
+      "Name": "Vladimir",
+      "Last Name": "Lolitov",
+      "Birthdate": "08/03/1993",
+      "Address": {
+        "Street": "9th",
+        "City": "SanFran",
+        "Zip": "98776",
+        "State": "CA",
+        "Country": "US"
+      },
+      "Phone": {
+        "fax": 2015551212,
+        "home": 2134441212
+      },
+      "Hobby": ["Swimming", "Writing", "Fliting"],
+      "Employed": true
+    },
+
+    {
+      "Name": "Vlada",
+      "Last Name": "Nabokova",
+      "Birthdate": "05/03/1993",
+      "Address": {
+        "Street": "9th",
+        "City": "SanFran",
+        "Zip": "98776",
+        "State": "CA",
+        "Country": "US"
+      },
+      "Phone": {
+        "fax": 2015551212,
+        "home": 2134441212
+      },
+      "Hobby": ["Swimming", "Writing", "Fliting"],
+      "Employed": true
+    },
+    {
+      "Name": "Edward",
+      "Last Name": "Shalobalo",
+      "Birthdate": "04/13/2012",
+      "Address": {
+        "Street": "Transom Ln",
+        "City": "Foster",
+        "Zip": "94404",
+        "State": "CA",
+        "Country": "US"
+      },
+      "Phone": {
+        "fax": 2015551212,
+        "home": 2134441212
+      },
+      "Hobby": ["Swimming", "Writing", "Fliting"],
+      "Employed": true
+    },
+    {
+      "Name": "Andrey",
+      "Last Name": "Lolitkin",
+      "Birthdate": "05/08/1987",
+      "Address": {
+        "Street": "9th",
+        "City": "SanFran",
+        "Zip": "98776",
+        "State": "CA",
+        "Country": "US"
+      },
+      "Phone": {
+        "fax": 2015551212,
+        "home": 2134441212
+      },
+      "Hobby": ["Swimming", "Writing", "Fliting"],
+      "Employed": true
+    }
+  ]
+}
